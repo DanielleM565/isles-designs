@@ -52,7 +52,7 @@
 	</head>
 	<body>
 		<header>
-			<!-- nav bar -->
+						<!-- nav bar -->
 			<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
 				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
 					<span class="navbar-toggler-icon"></span>
@@ -61,12 +61,13 @@
 				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
 					<div class="navbar-nav">
 						<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
-						<a class="nav-item nav-link" href="#about-me">About Me</a>
-						<a class="nav-item nav-link" href="#portfolio">Portfolio</a>
-						<a class="nav-item nav-link" href="#contact-form">Contact Me</a>
+						<a class="navbar-item navbar-link" href="#about-me">About Me</a>
+						<a class="navbar-item navbar-link" href="#portfolio">Portfolio</a>
+						<a class="navbar-item navbar-link" href="#contact-form">Contact Me</a>
 					</div>
 				</div>
 			</nav>
+
 		</header>
 
 
@@ -77,11 +78,15 @@
 		<div class="container" id="about-me">
 			<div class="row">
 				<div class="col-sm-12 col-8-md">
-					<h2>About me:</h2>
-					<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what
-						makes good design. As a Photographer, Web Developer and Scientist I live in that balance between
-						science and art, constantly creating and testing new ideas. If you have and idea and need a website
-						let's talk!</p>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<h2>About me:</h2>
+							<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what
+								makes good design. As a Photographer, Web Developer and Scientist I live in that balance between
+								science and art, constantly creating and testing new ideas. If you have and idea and need a website
+								let's talk!</p>
+						</div>
+					</div>
 				</div>
 			</div><!-- row -->
 		</div> <!--container -->

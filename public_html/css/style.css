@@ -2,6 +2,27 @@
 nav bar
  */
 
+/*
+header image
+ */
+
+header{
+}
+
+/*
+about me
+ */
+#about-me {
+	padding-top: 2rem;
+	background-color: #6a6c6f;
+}
+
+/*
+all the panel boxes of text
+ */
+.panel-body {
+	background-color: #ced3d3 ;
+}
 
 /*
 portfolio
