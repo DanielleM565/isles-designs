@@ -53,18 +53,18 @@
 	<body>
 		<header>
 			<!-- nav bar pills -->
-			<nav class="nav nav-pills nav-justified">
+			<nav class="nav-pills nav-default">
 				<div class="container-fluid">
-					<div class="navbar-header">
-						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false">
+					<div class="nav-header">
+						<button type="button" class="nav-toggle collapsed" data-toggle="collapse" data-target="#myNav" aria-expanded="false">
 							<span class="sr-only">Toggle navigation</span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#">Isles Designs</a>
+						<a class="nav-brand" href="#">Isles Designs</a>
 					</div>
-						<div class="collapse navbar-collapse" id="myNavbar">
+						<div class="collapse nav-collapse" id="myNav">
 							<ul class="nav nav-pills nav-right">
 								<li role="presentation"> <a href="#about-me">About Me</a></li>
 								<li role="presentation"> <a href="#portfolio">Portfolio</a></li>
@@ -82,6 +82,49 @@
 		<!-- about me -->
 
 		<!-- portfolio -->
+		<!-- portfolio section panel style  -->
+		<div class="container" id="portfolio">
+			<div class="row">
+				<div class="col-md-12 text-center">
+					<h2>Portfolio</h2>
+
+				</div> <!-- column -->
+			</div> <!-- portfolio tile row -->
+
+			<div class="row">
+				<div class="col-md-6 text-center">
+					<h3>Pi-O-Mirror</h3>
+					<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python</p>
+				</div>
+
+				<div class="col-md-6 text-center">
+					<h3>Game Plan</h3>
+					<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up </p>
+				</div>
+
+				<div class="col-md-6 text-center">
+					<h3>Angular Attack</h3>
+					<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an internation Hackathon known as Angular Attack.</p>
+				</div>
+
+				<!-- image/ icon for website -->
+
+				<div class="col-md-6 text-center">
+					<h3>My Personal Site</h3>
+					<p>Well you're on it now! This site is my personal site to showcase my portfolie as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below and let's talk!</p>
+				</div>
+			</div> <!-- row -->
+
+			<!-- git hub hyperlink -->
+			<div class="row">
+				<div class="col-md-12 text-right">
+					<p>See my code at github<a href="https://github.com/DanielleM565"> <i
+								class="fa fa-github fa-2x"></i></a> </p>
+				</div>
+			</div>
+			<!-- serious though if you're in dev tool looking at my code go to my github-->
+
+		</div> <!-- container -->
 
 
 
