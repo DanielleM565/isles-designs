@@ -52,27 +52,21 @@
 	</head>
 	<body>
 		<header>
-			<!-- nav bar pills -->
-			<nav class="nav-pills nav-default">
-				<div class="container-fluid">
-					<div class="nav-header">
-						<button type="button" class="nav-toggle collapsed" data-toggle="collapse" data-target="#myNav" aria-expanded="false">
-							<span class="sr-only">Toggle navigation</span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-							<span class="icon-bar"></span>
-						</button>
-						<a class="nav-brand" href="#">Isles Designs</a>
+			<!-- nav bar -->
+			<nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+				<button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+					<span class="navbar-toggler-icon"></span>
+				</button>
+				<a class="navbar-brand" href="#">Navbar</a>
+				<div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+					<div class="navbar-nav">
+						<a class="nav-item nav-link active" href="#">Home <span class="sr-only">(current)</span></a>
+						<a class="nav-item nav-link" href="#about-me">About Me</a>
+						<a class="nav-item nav-link" href="#portfolio">Portfolio</a>
+						<a class="nav-item nav-link" href="#contact-form">Contact Me</a>
 					</div>
-						<div class="collapse nav-collapse" id="myNav">
-							<ul class="nav nav-pills nav-right">
-								<li role="presentation"> <a href="#about-me">About Me</a></li>
-								<li role="presentation"> <a href="#portfolio">Portfolio</a></li>
-								<li role="presentation"> <a href="#contact-form">Contact Me</a></li>
-							</ul>
-						</div> <!-- navbar header -->
-					</div> <!-- container -->
-				</nav>
+				</div>
+			</nav>
 		</header>
 
 
@@ -80,9 +74,17 @@
 		<!-- images -->
 
 		<!-- about me -->
-<div class="container" id="about-me">
-
-</div> <!--container -->
+		<div class="container" id="about-me">
+			<div class="row">
+				<div class="col-sm-12 col-8-md">
+					<h2>About me:</h2>
+					<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what
+						makes good design. As a Photographer, Web Developer and Scientist I live in that balance between
+						science and art, constantly creating and testing new ideas. If you have and idea and need a website
+						let's talk!</p>
+				</div>
+			</div><!-- row -->
+		</div> <!--container -->
 
 
 		<!-- portfolio section panel style  -->
