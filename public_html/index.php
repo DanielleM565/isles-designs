@@ -99,17 +99,17 @@
 			<div class="row">
 				<div class="col-md-6 text-center">
 					<h3>Pi-O-Mirror</h3>
-					<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python</p>
+					<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python. Display important information people need in their daily life such as weather, time and date and Slack. </p>
 				</div>
 
 				<div class="col-md-6 text-center">
 					<h3>Game Plan</h3>
-					<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up </p>
+					<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up weekend competition. </p>
 				</div>
 
 				<div class="col-md-6 text-center">
 					<h3>Angular Attack</h3>
-					<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an internation Hackathon known as Angular Attack.</p>
+					<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
 				</div>
 
 				<!-- image/ icon for website -->
