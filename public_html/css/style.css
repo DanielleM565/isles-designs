@@ -63,6 +63,23 @@ footer{
 	font-size: 17px;
 }
 
+/*
+global styles
+ */
+h3 {
+	font-family: 'Lovers Quarrel', cursive;
+	font-size: 30px;
+}
+
+h2 {
+	font-family: 'Lovers Quarrel', cursive;
+	font-size: 45px;
+}
+
+p{
+	font-family: "Offside", cursive;
+}
+
 
 /*
 * color themes for isles brand design

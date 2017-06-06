@@ -94,46 +94,63 @@
 
 		<!-- portfolio section panel style  -->
 		<div class="container" id="portfolio">
+
 			<div class="row">
 				<div class="col-md-12 text-center">
-					<h2>Portfolio</h2>
+					<div class="panel panel-default" id="title">
+						<div class="panel-body">
+							<h2>Portfolio</h2>
+							<div class="row">
+								<div class="col-md-12 text-center">
+									<p>See my code at github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
 
-				</div> <!-- column -->
+								</div>
+							</div>
+						</div>
+					</div>
+				</div> <!-- row -->
+
 			</div> <!-- portfolio tile row -->
 
 			<div class="row">
 				<div class="col-md-6 text-center">
-					<h3>Pi-O-Mirror</h3>
-					<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python. Display important information people need in their daily life such as weather, time and date and Slack. </p>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<h3>Pi-O-Mirror</h3>
+							<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python. Display important information people need in their daily life such as weather, time and date and Slack. </p>
+						</div>
+					</div>
 				</div>
 
 				<div class="col-md-6 text-center">
-					<h3>Game Plan</h3>
-					<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up weekend competition. </p>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<h3>Game Plan</h3>
+							<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up weekend competition. </p>
+						</div>
+					</div>
 				</div>
 
 				<div class="col-md-6 text-center">
-					<h3>Angular Attack</h3>
-					<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<h3>Angular Attack</h3>
+							<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+						</div>
+					</div>
 				</div>
 
 				<!-- image/ icon for website -->
 
 				<div class="col-md-6 text-center">
-					<h3>My Personal Site</h3>
-					<p>Well you're on it now! This site is my personal site to showcase my portfolie as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below and let's talk!</p>
+					<div class="panel panel-default">
+						<div class="panel-body">
+							<h3>My Personal Site</h3>
+							<p>Well you're on it now! This site is my personal site to showcase my portfolie as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below and let's talk!</p>
+						</div>
+					</div>
 				</div>
 			</div> <!-- row -->
-
-			<!-- git hub hyperlink -->
-			<div class="row">
-				<div class="col-md-12 text-right">
-					<p>See my code at github<a href="https://github.com/DanielleM565"> <i
-								class="fa fa-github fa-2x"></i></a> </p>
-				</div>
-			</div>
-			<!-- serious though if you're in dev tool looking at my code go to my github-->
-
 		</div> <!-- container -->
 
 
