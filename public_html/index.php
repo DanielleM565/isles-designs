@@ -10,6 +10,9 @@
 		<!-- my custom css-->
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 
+		<!-- mobile first -->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+
 		<!-- Latest compiled and minified CSS -->
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -28,7 +31,7 @@
 		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- jQuery -->
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
 		<!-- jQuery Form, Additional Methods, Validate -->
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.form/4.2.1/jquery.form.min.js"></script>
@@ -49,9 +52,36 @@
 	</head>
 	<body>
 		<header>
-
+			<!-- nav bar pills -->
+			<nav class="nav nav-pills nav-justified">
+				<div class="container-fluid">
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#myNavbar" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+						<a class="navbar-brand" href="#">Isles Designs</a>
+					</div>
+						<div class="collapse navbar-collapse" id="myNavbar">
+							<ul class="nav nav-pills nav-right">
+								<li role="presentation"> <a href="#about-me">About Me</a></li>
+								<li role="presentation"> <a href="#portfolio">Portfolio</a></li>
+								<li role="presentation"> <a href="#contact-form">Contact Me</a></li>
+							</ul>
+						</div> <!-- navbar header -->
+					</div> <!-- container -->
+				</nav>
 		</header>
 
+
+
+		<!-- images -->
+
+		<!-- about me -->
+
+		<!-- portfolio -->
 
 
 
