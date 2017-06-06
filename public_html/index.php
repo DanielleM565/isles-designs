@@ -80,8 +80,11 @@
 		<!-- images -->
 
 		<!-- about me -->
+<div class="container" id="about-me">
 
-		<!-- portfolio -->
+</div> <!--container -->
+
+
 		<!-- portfolio section panel style  -->
 		<div class="container" id="portfolio">
 			<div class="row">
