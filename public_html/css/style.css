@@ -4,11 +4,39 @@ nav bar
 
 
 /*
-header image
+Intro image and Isles Designs
  */
 
-header{
+#isles{
+	font-family: "Lovers Quarrel", cursive;
+	font-size: 80px;
+	text-shadow: 1px 1px #6a6c6f;
+	color: #0e2548;
+	padding-left: 5rem;
+
+
 }
+
+#designs{
+	font-family: "Offside", cursive;
+	padding-left: 12rem;
+	text-shadow: 1px 1px #6a6c6f;
+	padding-bottom: 2rem;
+	color: #441058;
+	font-size: 41px
+
+}
+
+@media (min-width: 500px) {
+#peacock {
+		background-image: url("../images/peacock.jpg") !important;
+		background-size: cover;
+		background-repeat: no-repeat;
+		background-position: center;
+	}
+}
+
+
 
 /*
 about me
