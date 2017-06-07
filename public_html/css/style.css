@@ -2,7 +2,7 @@
 nav bar
  */
 
-nav {
+#navbar {
 	background-color: #ced3d3 ;
 }
 
@@ -17,8 +17,6 @@ Intro image and Isles Designs
 	text-shadow: 1px 1px #6a6c6f;
 	color: #0e2548;
 	padding-left: 5rem;
-
-
 }
 
 #designs{
