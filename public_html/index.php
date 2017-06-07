@@ -90,10 +90,7 @@
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<h2>About me:</h2>
-							<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what
-								makes good design. As a Photographer, Web Developer and Scientist I live in that balance between
-								science and art, constantly creating and testing new ideas. If you have and idea and need a website
-								let's talk!</p>
+							<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what makes good design. As a Photographer, Web Developer and Scientist I live in that balance between science and art, constantly creating and testing new ideas. If you have and idea and need a website let's talk!</p>
 						</div>
 					</div>
 				</div>

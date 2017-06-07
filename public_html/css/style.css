@@ -80,13 +80,16 @@ p{
 	font-family: "Offside", cursive;
 }
 
+body{
+	background-color: #6a6c6f;
+}
+
 /*
 thumbnails for portfolio
  */
 
-#thumbnail{
-	max-height: 100px;
-	max-width: 100px;
+.img-thumbnail, .thumbnail{
+max-height: 100px;
 }
 
 /*
