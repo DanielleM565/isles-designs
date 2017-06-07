@@ -49,6 +49,9 @@
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
 
+		<!-- animate css -->
+		<link rel="stylesheet" href="css/animate.css">
+
 	</head>
 	<body>
 		<header>
@@ -63,7 +66,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="#"></a>
+						<a class="navbar-brand"><div class="animated slideInLeft">Welcome</div></a>
 					</div>
 
 					<!-- Collect the nav links, forms, and other content for toggling -->
@@ -79,9 +82,15 @@
 
 		</header>
 
-
-
 		<!-- images -->
+<section>
+	<div class="container">
+		<div class="row">
+			<div class=""
+		</div>
+	</div>
+</section>
+
 
 		<!-- about me -->
 		<div class="container" id="about-me">
@@ -108,7 +117,7 @@
 							<h2>Portfolio</h2>
 							<div class="row">
 								<div class="col-md-12 text-center">
-									<p>See my code at github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
+									<p>Just some of my work, see my code at github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
 
 								</div>
 							</div>
@@ -123,7 +132,7 @@
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<h3>Pi-O-Mirror</h3>
-							<img src="images/isles-designs.png" class="img-responsive thumbnail">
+							<img src="images/mirror.jpg" class="img-responsive thumbnail">
 							<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python. Display important information people need in their daily life such as weather, time and date and Slack. </p>
 						</div>
 					</div>
@@ -156,7 +165,7 @@
 						<div class="panel-body">
 							<h3>My Personal Site</h3>
 							<img src="images/isles-designs.png" class="img-responsive thumbnail">
-							<p>Well you're on it now! This site is my personal site to showcase my portfolie as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below and let's talk!</p>
+							<p>Well you're on it now! This site is my personal site to showcase my portfolio as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below./p>
 						</div>
 					</div>
 				</div>
@@ -164,7 +173,8 @@
 		</div> <!-- container -->
 
 
-
+<div class="panel panel default">
+	<div class="panel-body">
 		<!-- contact me section-->
 		<div class="container contact">
 			<div class="row">
@@ -227,6 +237,9 @@
 				</div> <!-- column-->
 			</div> <!-- row -->
 		</div> <!-- container -->
+
+	</div> <!-- panel -->
+</div>
 
 
 <!-- footer with linkedin icon -->

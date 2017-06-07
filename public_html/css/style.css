@@ -2,6 +2,7 @@
 nav bar
  */
 
+
 /*
 header image
  */
@@ -68,7 +69,7 @@ global styles
  */
 h3 {
 	font-family: 'Lovers Quarrel', cursive;
-	font-size: 30px;
+	font-size: 35px;
 }
 
 h2 {
@@ -85,13 +86,18 @@ body{
 }
 
 /*
-thumbnails for portfolio
+thumbnails for portfolio keeps all thumbnails same size and centered
  */
 
 .img-thumbnail, .thumbnail{
-max-height: 100px;
+max-height: 175px;
+	display: inline-block;
+	float: none;
 }
 
+img {
+	align-content: center;
+}
 /*
 * color themes for isles brand design
 * cyan = #50cbfe
