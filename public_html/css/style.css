@@ -80,6 +80,14 @@ p{
 	font-family: "Offside", cursive;
 }
 
+/*
+thumbnails for portfolio
+ */
+
+#thumbnail{
+	max-height: 100px;
+	max-width: 100px;
+}
 
 /*
 * color themes for isles brand design
