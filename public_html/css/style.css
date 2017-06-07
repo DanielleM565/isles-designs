@@ -2,6 +2,10 @@
 nav bar
  */
 
+nav {
+	background-color: #ced3d3 ;
+}
+
 
 /*
 Intro image and Isles Designs
@@ -45,6 +49,12 @@ about me
 	padding-top: 2rem;
 	background-color: #6a6c6f;
 }
+
+/*#profile {*/
+/*max-height: 175px !important;*/
+	/*display: inline-block;*/
+	/*float: right;*/
+/*}*/
 
 /*
 all the panel boxes of text
@@ -98,11 +108,13 @@ global styles
 h3 {
 	font-family: 'Lovers Quarrel', cursive;
 	font-size: 35px;
+	color: #441058;
 }
 
 h2 {
 	font-family: 'Lovers Quarrel', cursive;
 	font-size: 45px;
+	color: #441058;
 }
 
 p{

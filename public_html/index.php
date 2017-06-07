@@ -102,14 +102,18 @@
 		<!-- about me -->
 		<div class="container" id="about-me">
 			<div class="row">
-				<div class="col-sm-12 col-8-md">
+
 					<div class="panel panel-default">
 						<div class="panel-body">
-							<h2>About me:</h2>
-							<p>Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what makes good design. As a Photographer, Web Developer and Scientist I live in that balance between science and art, constantly creating and testing new ideas. If you have and idea and need a website let's talk!</p>
+							<div class="col-md-12">
+								<h2>About me:</h2>
+								<p >Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what makes good design. As a Photographer, Web Developer and Scientist I live in that balance between science and art, constantly creating and testing new ideas. If you have and idea and need a website let's talk!</p>
+							</div>
+<!--							<div class="col-4-md">-->
+<!--								<img src="images/profile%20picture.jpg" class="img-responsive display-block" alt="picture of me" id="profile">-->
+<!--							</div>-->
 						</div>
 					</div>
-				</div>
 			</div><!-- row -->
 		</div> <!--container -->
 
