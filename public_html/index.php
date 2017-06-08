@@ -144,7 +144,7 @@
 						<div class="panel-body">
 							<h3>Pi-O-Mirror</h3>
 							<img src="images/mirror.jpg" class="img-responsive thumbnail" alt="Picture of Raspberry Pi mirror during development">
-							<p>A Raspberry Pi powered Smart mirror build on the software side with PHP, mySQL, HTML, CSS, JavaScript and a little bit of Python. Display important information people need in their daily life such as weather, time and date and Slack. </p>
+							<p>A Raspberry Pi powered Smart mirror built on the software side with PHP, mySQL, HTML5, CSS3, JavaScript and a little bit of Python. Displays important information everyone needs in their daily life such as weather, time, date and Slack. </p>
 						</div>
 					</div>
 				</div>
@@ -154,7 +154,7 @@
 						<div class="panel-body">
 							<h3>Game Plan</h3>
 							<img src="images/game-plan.png" class="img-responsive thumbnail" alt="Game Plan logo">
-							<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML, CSS and Bootstrap for Start-up weekend competition. </p>
+							<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML5, CSS3 and Bootstrap3 for Start-up weekend competition. </p>
 						</div>
 					</div>
 				</div>
@@ -164,7 +164,7 @@
 						<div class="panel-body">
 							<h3>Angular Attack</h3>
 							<img src="images/angular.jpg" class="img-responsive thumbnail" alt="Screen shot of the angular attack project">
-							<p>Developed a Random Number generator using Angular 3 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+							<p>Developed a Random Number generator using Angular 3/4 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
 						</div>
 					</div>
 				</div>
@@ -176,7 +176,7 @@
 						<div class="panel-body">
 							<h3>My Personal Site</h3>
 							<img src="images/isles-designs.png" class="img-responsive thumbnail" alt="Isles Designs logo">
-							<p>Well you're on it now! This site is my personal site to showcase my portfolio as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below./p>
+							<p>Well you're on it now! This site is my personal site to showcase my portfolio as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below.</p>
 						</div>
 					</div>
 				</div>
