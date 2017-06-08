@@ -53,6 +53,8 @@
 		<link rel="stylesheet" href="css/animate.css">
 
 	</head>
+
+
 	<body>
 		<header>
 						<!-- nav bar -->
@@ -76,8 +78,8 @@
 							<li><a class="navlink" href="#portfolio">Portfolio</a></li>
 							<li><a class="navlink" href="#contact-form">Contact Me</a></li>
 						</ul>
-					</div><!-- /.navbar-collapse -->
-				</div><!-- /.container-fluid -->
+					</div><!-- navbar-collapse -->
+				</div><!-- container-fluid -->
 			</nav>
 
 		</header>
@@ -109,6 +111,7 @@
 								<h2>About me:</h2>
 								<p >Hello I am Danielle Isles Martin and I truly believe a good balance of art and science is what makes good design. As a Photographer, Web Developer and Scientist I live in that balance between science and art, constantly creating and testing new ideas. If you have and idea and need a website let's talk!</p>
 							</div>
+							<!-- profile image to be fixed and added later -->
 <!--							<div class="col-4-md">-->
 <!--								<img src="images/profile%20picture.jpg" class="img-responsive display-block" alt="picture of me" id="profile">-->
 <!--							</div>-->
@@ -128,16 +131,15 @@
 							<h2>Portfolio</h2>
 							<div class="row">
 								<div class="col-md-12 text-center">
-									<p>Just some of my work, see my code at github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
-
+									<p>Just some of my work, see my code on github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
 								</div>
 							</div>
 						</div>
 					</div>
 				</div> <!-- row -->
-
 			</div> <!-- portfolio tile row -->
 
+			<!-- first panels top left capstone -->
 			<div class="row">
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
@@ -149,6 +151,7 @@
 					</div>
 				</div>
 
+				<!-- 2nd panel game plan -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
@@ -159,6 +162,7 @@
 					</div>
 				</div>
 
+			<!-- 3rd panel angular attack -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
@@ -169,8 +173,8 @@
 					</div>
 				</div>
 
-				<!-- image/ icon for website -->
 
+		<!-- my site WELCOME -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
@@ -253,7 +257,7 @@
 </div>
 
 
-<!-- footer with linkedin icon -->
+	<!-- footer with linkedin icon -->
 		<footer class="icon">
 			<div class="container text-center">
 				<div class="row">
