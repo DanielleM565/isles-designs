@@ -163,7 +163,7 @@
 						<div class="panel-body">
 							<h3>Angular Attack</h3>
 							<img src="images/angular.jpg" class="img-responsive thumbnail" alt="Screen shot of the angular attack project">
-							<p>Developed a Random Number generator using Angular 3/4 for the first time in 48-hour for an international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+							<p>Developed a Random Number generator learned and used Angular 3/4 for a 48-hour international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
 						</div>
 					</div>
 				</div>
@@ -185,6 +185,12 @@
 
 <div class="panel panel default">
 	<div class="panel-body">
+
+		<!-- title -->
+		<div class="row text-center">
+			<h2>Contact Me:</h2>
+		</div>
+
 		<!-- contact me section-->
 		<div class="container contact">
 			<div class="row">

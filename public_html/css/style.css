@@ -48,11 +48,6 @@ about me
 	background-color: #6a6c6f;
 }
 
-/*#profile {*/
-/*max-height: 175px !important;*/
-	/*display: inline-block;*/
-	/*float: right;*/
-/*}*/
 
 /*
 all the panel boxes of text
@@ -136,9 +131,3 @@ max-height: 175px;
 img {
 	align-content: center;
 }
-/*
-* color themes for isles brand design
-* cyan = #50cbfe
-* dark grey = #6a6c6f
-* light grey = #ced3d3
-*/
