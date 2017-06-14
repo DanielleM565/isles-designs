@@ -126,7 +126,7 @@
 							<h2>Portfolio</h2>
 							<div class="row">
 								<div class="col-md-12 text-center">
-									<p>Just some of my work, see my code on github <a href="https://github.com/DanielleM565"> <i class="fa fa-github fa-2x"></i></a></p>
+									<p>Just some of my work, see my code on github <a href="https://github.com/DanielleM565" target="_blank"> <i class="fa fa-github fa-2x"></i></a></p>
 								</div>
 							</div>
 						</div>
@@ -263,7 +263,7 @@
 			<div class="container text-center">
 				<div class="row">
 					<div>
-						<a href="https://www.linkedin.com/in/danielle-martin-6a2b21132"> <i
+						<a href="https://www.linkedin.com/in/danielle-martin-6a2b21132" target="_blank"> <i
 								class="fa fa-linkedin-square fa-4x"></i></a>
 					</div> <!-- icon -->
 				</div> <!-- row -->
