@@ -43,6 +43,17 @@ Intro image and Isles Designs
 	#peacock {
 		background-color: #50cbfe;
 		text-align: center;
+
+}
+
+	@media (max-width: 849px)  {
+		#isles {
+			padding-left: 1rem;
+		}
+		#designs {
+			padding-left: 1rem;
+		}
+
 	}
 
 }
