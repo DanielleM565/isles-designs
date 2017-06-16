@@ -27,9 +27,6 @@
 		<!-- Google fonts for header and body-->
 		<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Offside" rel="stylesheet">
 
-		<!-- my custom css-->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
-
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
 
@@ -163,7 +160,7 @@
 						<div class="panel-body">
 							<h3>Angular Attack</h3>
 							<img src="images/angular.jpg" class="img-responsive thumbnail" alt="Screen shot of the angular attack project">
-							<p>Developed a Random Number generator learned and used Angular 2/4 for a 48-hour international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+							<p>Developed a Random Number generator learned and used Angular 2/4 for a 48-hour international Hack-a-thon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
 						</div>
 					</div>
 				</div>
