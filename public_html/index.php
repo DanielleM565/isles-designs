@@ -163,7 +163,7 @@
 						<div class="panel-body">
 							<h3>Angular Attack</h3>
 							<img src="images/angular.jpg" class="img-responsive thumbnail" alt="Screen shot of the angular attack project">
-							<p>Developed a Random Number generator learned and used Angular 3/4 for a 48-hour international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
+							<p>Developed a Random Number generator learned and used Angular 2/4 for a 48-hour international Hackathon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
 						</div>
 					</div>
 				</div>
