@@ -7,8 +7,6 @@
 		<!--For Internet explorer users please see http://lmgtfy.com/?q=how+to+download+google -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-		<!-- my custom css-->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 		<!-- mobile first -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
@@ -27,8 +25,7 @@
 		<!-- Google fonts for header and body-->
 		<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Offside" rel="stylesheet">
 
-		<!-- my custom css-->
-		<link rel="stylesheet" href="css/style.css" type="text/css">
+
 
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
@@ -51,6 +48,9 @@
 
 		<!-- animate css -->
 		<link rel="stylesheet" href="css/animate.css">
+
+		<!-- my custom css-->
+		<link rel="stylesheet" href="css/style.css" type="text/css">
 
 	</head>
 
