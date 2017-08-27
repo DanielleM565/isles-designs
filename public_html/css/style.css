@@ -72,7 +72,8 @@ about me
 all the panel boxes of text
  */
 .panel-body {
-	background-color: #ced3d3 ;
+	background-color: #ced3d3;
+	box-shadow: 0 0 30px black
 }
 
 /*
