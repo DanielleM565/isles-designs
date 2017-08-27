@@ -72,7 +72,8 @@ about me
 all the panel boxes of text
  */
 .panel-body {
-	background-color: #ced3d3 ;
+	background-color: #ced3d3;
+	box-shadow: 0 0 30px black
 }
 
 /*
@@ -142,7 +143,7 @@ thumbnails for portfolio keeps all thumbnails same size and centered
  */
 
 .img-thumbnail, .thumbnail{
-max-height: 175px;
+	max-height: 175px;
 	display: inline-block;
 	float: none;
 }

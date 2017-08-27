@@ -25,7 +25,8 @@
 		<!-- Google fonts for header and body-->
 		<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Offside" rel="stylesheet">
 
-
+		<!-- favicon -->
+		<link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon"/>
 
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
@@ -134,8 +135,19 @@
 				</div> <!-- row -->
 			</div> <!-- portfolio tile row -->
 
-			<!-- first panels top left capstone -->
-			<div class="row">
+			<!-- first panel TVP -->
+		<div class="row">
+			<div class="col-md-6 text-center">
+				<div class="panel panel-default">
+					<div class="panel-body">
+						<h3>Tramway Venture Partners</h3>
+						<img src="images/tvp.png" class="img-responsive thumbnail" alt="Tramway Venture Partners Logo">
+						<p>Developed and currently maintain landing page for <a href="https://www.tramwayventures.com">Tramway Venture Partner's Website</a>. Built from scratch using HTML, PHP, Bootstrap and CSS. All the images were taken by me and the logo was built using Adobe Illustrator.</p>
+					</div>
+				</div>
+			</div>
+
+			<!-- second panels top left capstone -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
@@ -146,7 +158,7 @@
 					</div>
 				</div>
 
-				<!-- 2nd panel game plan -->
+				<!-- third panel game plan -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
@@ -157,25 +169,13 @@
 					</div>
 				</div>
 
-			<!-- 3rd panel angular attack -->
-				<div class="col-md-6 text-center">
-					<div class="panel panel-default">
-						<div class="panel-body">
-							<h3>Angular Attack</h3>
-							<img src="images/angular.jpg" class="img-responsive thumbnail" alt="Screen shot of the angular attack project">
-							<p>Developed a Random Number generator learned and used Angular 2/4 for a 48-hour international Hack-a-thon known as Angular Attack. For the first time using Angular, how hard could it be?</p>
-						</div>
-					</div>
-				</div>
-
-
 		<!-- my site WELCOME -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
 							<h3>My Personal Site</h3>
 							<img src="images/isles-designs.png" class="img-responsive thumbnail" alt="Isles Designs logo">
-							<p>Well you're on it now! This site is my personal site to showcase my portfolio as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below.</p>
+							<p>Well you're on it now! This site is my personal site to showcase my portfolio as a photographer and Web Designer. If you're interested in more of my work check out my git hub or drop me a line below. And thanks for stopping by! </p>
 						</div>
 					</div>
 				</div>
@@ -268,7 +268,7 @@
 					</div> <!-- icon -->
 				</div> <!-- row -->
 				<div class="row">
-					<p>Connect with me on Linked-in and Thank you for stopping by</p>
+					<p>Connect with me on LinkedIn</p>
 				</div>
 			</div> <!-- container -->
 		</footer>
