@@ -25,7 +25,8 @@
 		<!-- Google fonts for header and body-->
 		<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel|Offside" rel="stylesheet">
 
-
+		<!-- favicon -->
+		<link rel="shortcut icon" href="images/favicon.jpg" type="image/x-icon"/>
 
 		<!-- jQuery -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.0.0/jquery.min.js"></script>
