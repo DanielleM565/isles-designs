@@ -142,7 +142,7 @@ thumbnails for portfolio keeps all thumbnails same size and centered
  */
 
 .img-thumbnail, .thumbnail{
-max-height: 175px;
+	max-height: 175px;
 	display: inline-block;
 	float: none;
 }
