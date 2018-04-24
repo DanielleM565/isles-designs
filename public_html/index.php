@@ -142,7 +142,7 @@
 					<div class="panel-body">
 						<h3>Tramway Venture Partners</h3>
 						<img src="images/tvp.png" class="img-responsive thumbnail" alt="Tramway Venture Partners Logo">
-						<p>Developed and currently maintain landing page for <a href="https://www.tramwayventures.com">Tramway Venture Partner's Website</a>. Built from scratch using HTML, PHP, Bootstrap and CSS. All the images were taken by me and the logo was built using Adobe Illustrator.</p>
+						<p>Developed and currently maintain landing page for <a href="http://www.tramwayventures.com">Tramway Venture Partner's Website</a>. Built from scratch using HTML, PHP, Bootstrap and CSS. All the images were taken by me and the logo was built using Adobe Illustrator.</p>
 					</div>
 				</div>
 			</div>
