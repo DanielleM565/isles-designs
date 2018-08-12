@@ -4,7 +4,7 @@
 		<meta charset="UTF-8">
 		<title>Isles Designs</title>
 
-		<!--For Internet explorer users please see http://lmgtfy.com/?q=how+to+download+google -->
+		<!--For Internet explorer users please see https://lmgtfy.com/?q=how+to+download+google -->
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 
@@ -142,7 +142,7 @@
 					<div class="panel-body">
 						<h3>Tramway Venture Partners</h3>
 						<img src="images/tvp.png" class="img-responsive thumbnail" alt="Tramway Venture Partners Logo">
-						<p>Developed and currently maintain landing page for <a href="https://www.tramwayventures.com">Tramway Venture Partner's Website</a>. Built from scratch using HTML, PHP, Bootstrap and CSS. All the images were taken by me and the logo was built using Adobe Illustrator.</p>
+						<p>Developed and currently maintain landing page for <a href="https://www.tramwayventures.com" target="_blank">Tramway Venture Partner's Website</a>. Built from scratch using HTML, PHP, Bootstrap and CSS. All the images were taken by me and the logo was built using Adobe Illustrator.</p>
 					</div>
 				</div>
 			</div>
@@ -162,7 +162,7 @@
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
-							<h3>Game Plan</h3>
+							<h3>Sun Code Hack-a-thon Winner</h3>
 							<img src="images/game-plan.png" class="img-responsive thumbnail" alt="Game Plan logo">
 							<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML5, CSS3 and Bootstrap3 for Start-up weekend competition. </p>
 						</div>
