@@ -1,9 +1,12 @@
 RewriteEngine on
 RewriteCond %{HTTP_HOST} ^isles-designs.com$ [NC,OR]
 RewriteCond %{HTTP_HOST} ^www.isles-designs.com$
-RewriteCond %{REQUEST_URI} !public_html/
-RewriteRule (.*) /public/$1 [L]
+#RewriteCond %{REQUEST_URI} !public_html/
+#RewriteRule (.*) /public/$1 [L]
 
 # this forces SSL connection
 RewriteCond %{HTTPS} !=on
-RewriteRule (.*) https://isles-designs.com/$1 [L]
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
