@@ -158,13 +158,13 @@
 					</div>
 				</div>
 
-				<!-- third panel game plan -->
+				<!-- third panel Suncode https://devpost.com/software/duckworth -->
 				<div class="col-md-6 text-center">
 					<div class="panel panel-default">
 						<div class="panel-body">
-							<h3>Sun Code Hack-a-thon Winner</h3>
-							<img src="images/game-plan.png" class="img-responsive thumbnail" alt="Game Plan logo">
-							<p> Co-founder and Developer for Game Plan. An interactive web platform that helps entrepreneurs and investors view their business’s progress at-a-glance. Built a mock site using HTML5, CSS3 and Bootstrap3 for Start-up weekend competition. </p>
+							<h3>Sun-Code 2018 Winner</h3>
+							<img src="images/duckworth.PNG" class="img-responsive thumbnail" alt="Picture of DuckWorth's site">
+							<p>Suncode 2018 Hack-a-thon winner! <a href="https://devpost.com/software/duckworth" target="_blank">Won 3rd place with Duckworth</a> a new approach to the duck problem in Solar energy. Using data from Sunrun we created a platform for customers with Solar and Battery storage to control their energy generation with changing weather.</p>
 						</div>
 					</div>
 				</div>
